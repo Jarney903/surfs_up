@@ -16,11 +16,11 @@ The analysis of the June and December temperature profiles show the following re
 - The weather for both months are constitant within a range of 56F - 85F. 
 
 ### Figure 1: June Temperature Results
-![Fare by City Type](https://github.com/Jarney903/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
+![June Temps](https://github.com/Jarney903/surfs_up/blob/main/Resources/june_analysis.png)
 <br />
 
 ### Figure 2: December Temperature Results
-![Dataframe Summary](https://github.com/Jarney903/PyBer_Analysis/blob/main/analysis/PyBer_dataframe_summary.png)
+![December Temps](https://github.com/Jarney903/surfs_up/blob/main/Resources/dec_analysis.png)
 <br />
 
 ## Surfs Up Analysis Summary
